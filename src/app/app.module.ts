@@ -13,12 +13,10 @@ import { ListUserComponent } from './list-user/list-user.component';
     HeaderComponent,
     ListProductComponent,
     FooterComponent,
-    ListUserComponent
+    ListUserComponent,
   ],
-  imports: [
-    BrowserModule
-  ],
+  imports: [BrowserModule],
   providers: [],
-  bootstrap: [AppComponent]
+  bootstrap: [AppComponent],
 })
-export class AppModule { }
+export class AppModule {}

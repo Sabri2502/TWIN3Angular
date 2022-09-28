@@ -25,7 +25,7 @@ export class ListProductComponent implements OnInit {
         picture: 'https://i8.amplience.net/i/jpl/jd_392502_a',
       },
       {
-        id: 1,
+        id: 2,
         title: 'T-shirt 2',
         price: 35,
         nbrLike: 17,
@@ -33,18 +33,18 @@ export class ListProductComponent implements OnInit {
         category: 'women',
         quantity: 5,
         picture:
-          'https://assets.ajio.com/medias/sys_master/root/20220405/KevA/624b3cfeaeb26921af0a8476/-78Wx98H-441137206-navy-MODEL.jpg',
+          'https://images.bewakoof.com/t1080/women-s-black-tropical-vibes-typography-oversized-t-shirt-493433-1655750394-1.jpg',
       },
       {
-        id: 1,
+        id: 3,
         title: 'T-shirt 3',
         price: 20,
         nbrLike: 8,
         description: 'nice T-shirt',
-        category: 'men',
+        category: 'women',
         quantity: 77,
         picture:
-          'https://ae01.alicdn.com/kf/H528ef7b06091486f9b72d711eab3fc4eb/Running-Knitted-Short-Sleeve-Polo-Shirt-Men-Fitness-Slim-Fit-Strips-Polo-T-shirt-Male-Fashion.jpg_Q90.jpg_.webp',
+          'https://images.bewakoof.com/t640/women-s-black-extinct-graphic-printed-oversized-t-shirt-509023-1655924587-1.jpg',
       },
     ];
   }

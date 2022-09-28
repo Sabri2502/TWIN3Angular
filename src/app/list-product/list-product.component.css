@@ -1,3 +1,7 @@
 .purchase-btn {
   float: right;
 }
+.title {
+  text-align: center;
+  margin: 2rem;
+}
